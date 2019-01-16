@@ -1,5 +1,8 @@
 ## ccc 說明
 
+本範例來自 https://github.com/naihe138/GraphQL-demo
+
+
 啟用 mongod ，然後用 mongo 輸入下列資料：
 
 ```

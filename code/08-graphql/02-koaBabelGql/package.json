@@ -1,0 +1,17 @@
+{
+  "name": "02-koababelgql",
+  "version": "1.0.0",
+  "description": "* https://github.com/chentsulin/koa-graphql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
