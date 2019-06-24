@@ -1,5 +1,9 @@
 # HTTP
 
+## HTTP
+
+* [HTTP 的運作原理](http.md)
+* https -- ssl 加密後的 http
 * https://mdbookspace.com/view/jsw/README.md
 * [m@rcus 學習筆記: Http GET、POST Method](https://dotblogs.com.tw/marcus116/archive/2011/05/29/26428.aspx) (讚!)
 

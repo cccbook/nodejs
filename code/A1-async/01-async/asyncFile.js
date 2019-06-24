@@ -1,4 +1,4 @@
-var fs = require('mz/fs')
+var fs = require('fs').promises
 
 async function main() {
   var data1 = await fs.readFile("asyncFile.js", "utf8");
@@ -12,3 +12,4 @@ async function main() {
 }
 
 main()
+console.log('main 執行了')
