@@ -13,7 +13,7 @@
     "koa-session": "^3.4.0",
     "koa-static": "^2.1.0",
     "markd": "^1.2.0",
-    "mongodb": "^2.2.15",
+    "mongodb": "^3.6.1",
     "mz": "^2.6.0",
     "object-hash": "^1.1.5",
     "showdown": "^1.8.6",
